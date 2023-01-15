@@ -1,0 +1,16 @@
+5
+potato
+Belarus
+2
+apple
+America
+5
+grapes
+Belarus
+7
+orange
+China
+10
+potato
+Russia
+5
